@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+hi! my name is Linh Nguyen, I'm CO'23 studying CS at Rice
+
